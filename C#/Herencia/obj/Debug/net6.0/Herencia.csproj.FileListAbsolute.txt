@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\Herencia\bin\Debug\net6.0\Herencia.exe
+D:\auvm\Desktop\C#\Herencia\bin\Debug\net6.0\Herencia.deps.json
+D:\auvm\Desktop\C#\Herencia\bin\Debug\net6.0\Herencia.runtimeconfig.json
+D:\auvm\Desktop\C#\Herencia\bin\Debug\net6.0\Herencia.dll
+D:\auvm\Desktop\C#\Herencia\bin\Debug\net6.0\ref\Herencia.dll
+D:\auvm\Desktop\C#\Herencia\bin\Debug\net6.0\Herencia.pdb
+D:\auvm\Desktop\C#\Herencia\obj\Debug\net6.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfo.cs
+D:\auvm\Desktop\C#\Herencia\obj\Debug\net6.0\Herencia.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\Herencia\obj\Debug\net6.0\Herencia.dll
+D:\auvm\Desktop\C#\Herencia\obj\Debug\net6.0\ref\Herencia.dll
+D:\auvm\Desktop\C#\Herencia\obj\Debug\net6.0\Herencia.pdb
+D:\auvm\Desktop\C#\Herencia\obj\Debug\net6.0\Herencia.genruntimeconfig.cache

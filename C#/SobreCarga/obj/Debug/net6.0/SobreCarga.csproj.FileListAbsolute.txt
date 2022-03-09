@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\SobreCarga\bin\Debug\net6.0\SobreCarga.exe
+D:\auvm\Desktop\C#\SobreCarga\bin\Debug\net6.0\SobreCarga.deps.json
+D:\auvm\Desktop\C#\SobreCarga\bin\Debug\net6.0\SobreCarga.runtimeconfig.json
+D:\auvm\Desktop\C#\SobreCarga\bin\Debug\net6.0\SobreCarga.dll
+D:\auvm\Desktop\C#\SobreCarga\bin\Debug\net6.0\ref\SobreCarga.dll
+D:\auvm\Desktop\C#\SobreCarga\bin\Debug\net6.0\SobreCarga.pdb
+D:\auvm\Desktop\C#\SobreCarga\obj\Debug\net6.0\SobreCarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\SobreCarga\obj\Debug\net6.0\SobreCarga.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\SobreCarga\obj\Debug\net6.0\SobreCarga.AssemblyInfo.cs
+D:\auvm\Desktop\C#\SobreCarga\obj\Debug\net6.0\SobreCarga.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\SobreCarga\obj\Debug\net6.0\SobreCarga.dll
+D:\auvm\Desktop\C#\SobreCarga\obj\Debug\net6.0\ref\SobreCarga.dll
+D:\auvm\Desktop\C#\SobreCarga\obj\Debug\net6.0\SobreCarga.pdb
+D:\auvm\Desktop\C#\SobreCarga\obj\Debug\net6.0\SobreCarga.genruntimeconfig.cache

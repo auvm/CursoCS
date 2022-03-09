@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\For\bin\Debug\net6.0\For.exe
+D:\auvm\Desktop\C#\For\bin\Debug\net6.0\For.deps.json
+D:\auvm\Desktop\C#\For\bin\Debug\net6.0\For.runtimeconfig.json
+D:\auvm\Desktop\C#\For\bin\Debug\net6.0\For.dll
+D:\auvm\Desktop\C#\For\bin\Debug\net6.0\ref\For.dll
+D:\auvm\Desktop\C#\For\bin\Debug\net6.0\For.pdb
+D:\auvm\Desktop\C#\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+D:\auvm\Desktop\C#\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\For\obj\Debug\net6.0\For.dll
+D:\auvm\Desktop\C#\For\obj\Debug\net6.0\ref\For.dll
+D:\auvm\Desktop\C#\For\obj\Debug\net6.0\For.pdb
+D:\auvm\Desktop\C#\For\obj\Debug\net6.0\For.genruntimeconfig.cache

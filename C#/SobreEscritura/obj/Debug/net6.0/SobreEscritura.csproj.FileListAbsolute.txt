@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\SobreEscritura\bin\Debug\net6.0\SobreEscritura.exe
+D:\auvm\Desktop\C#\SobreEscritura\bin\Debug\net6.0\SobreEscritura.deps.json
+D:\auvm\Desktop\C#\SobreEscritura\bin\Debug\net6.0\SobreEscritura.runtimeconfig.json
+D:\auvm\Desktop\C#\SobreEscritura\bin\Debug\net6.0\SobreEscritura.dll
+D:\auvm\Desktop\C#\SobreEscritura\bin\Debug\net6.0\ref\SobreEscritura.dll
+D:\auvm\Desktop\C#\SobreEscritura\bin\Debug\net6.0\SobreEscritura.pdb
+D:\auvm\Desktop\C#\SobreEscritura\obj\Debug\net6.0\SobreEscritura.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\SobreEscritura\obj\Debug\net6.0\SobreEscritura.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\SobreEscritura\obj\Debug\net6.0\SobreEscritura.AssemblyInfo.cs
+D:\auvm\Desktop\C#\SobreEscritura\obj\Debug\net6.0\SobreEscritura.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\SobreEscritura\obj\Debug\net6.0\SobreEscritura.dll
+D:\auvm\Desktop\C#\SobreEscritura\obj\Debug\net6.0\ref\SobreEscritura.dll
+D:\auvm\Desktop\C#\SobreEscritura\obj\Debug\net6.0\SobreEscritura.pdb
+D:\auvm\Desktop\C#\SobreEscritura\obj\Debug\net6.0\SobreEscritura.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\Arreglos\bin\Debug\net6.0\Arreglos.exe
+D:\auvm\Desktop\C#\Arreglos\bin\Debug\net6.0\Arreglos.deps.json
+D:\auvm\Desktop\C#\Arreglos\bin\Debug\net6.0\Arreglos.runtimeconfig.json
+D:\auvm\Desktop\C#\Arreglos\bin\Debug\net6.0\Arreglos.dll
+D:\auvm\Desktop\C#\Arreglos\bin\Debug\net6.0\ref\Arreglos.dll
+D:\auvm\Desktop\C#\Arreglos\bin\Debug\net6.0\Arreglos.pdb
+D:\auvm\Desktop\C#\Arreglos\obj\Debug\net6.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\Arreglos\obj\Debug\net6.0\Arreglos.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\Arreglos\obj\Debug\net6.0\Arreglos.AssemblyInfo.cs
+D:\auvm\Desktop\C#\Arreglos\obj\Debug\net6.0\Arreglos.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\Arreglos\obj\Debug\net6.0\Arreglos.dll
+D:\auvm\Desktop\C#\Arreglos\obj\Debug\net6.0\ref\Arreglos.dll
+D:\auvm\Desktop\C#\Arreglos\obj\Debug\net6.0\Arreglos.pdb
+D:\auvm\Desktop\C#\Arreglos\obj\Debug\net6.0\Arreglos.genruntimeconfig.cache

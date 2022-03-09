@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\Generic\bin\Debug\net6.0\Generic.exe
+D:\auvm\Desktop\C#\Generic\bin\Debug\net6.0\Generic.deps.json
+D:\auvm\Desktop\C#\Generic\bin\Debug\net6.0\Generic.runtimeconfig.json
+D:\auvm\Desktop\C#\Generic\bin\Debug\net6.0\Generic.dll
+D:\auvm\Desktop\C#\Generic\bin\Debug\net6.0\ref\Generic.dll
+D:\auvm\Desktop\C#\Generic\bin\Debug\net6.0\Generic.pdb
+D:\auvm\Desktop\C#\Generic\obj\Debug\net6.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\Generic\obj\Debug\net6.0\Generic.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\Generic\obj\Debug\net6.0\Generic.AssemblyInfo.cs
+D:\auvm\Desktop\C#\Generic\obj\Debug\net6.0\Generic.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\Generic\obj\Debug\net6.0\Generic.dll
+D:\auvm\Desktop\C#\Generic\obj\Debug\net6.0\ref\Generic.dll
+D:\auvm\Desktop\C#\Generic\obj\Debug\net6.0\Generic.pdb
+D:\auvm\Desktop\C#\Generic\obj\Debug\net6.0\Generic.genruntimeconfig.cache

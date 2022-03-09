@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+D:\auvm\Desktop\C#\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+D:\auvm\Desktop\C#\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+D:\auvm\Desktop\C#\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+D:\auvm\Desktop\C#\SwitchCase\bin\Debug\net6.0\ref\SwitchCase.dll
+D:\auvm\Desktop\C#\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+D:\auvm\Desktop\C#\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+D:\auvm\Desktop\C#\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+D:\auvm\Desktop\C#\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll
+D:\auvm\Desktop\C#\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+D:\auvm\Desktop\C#\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache

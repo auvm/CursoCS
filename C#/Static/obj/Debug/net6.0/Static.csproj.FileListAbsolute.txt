@@ -1,0 +1,15 @@
+D:\auvm\Desktop\C#\Static\bin\Debug\net6.0\Static.exe
+D:\auvm\Desktop\C#\Static\bin\Debug\net6.0\Static.deps.json
+D:\auvm\Desktop\C#\Static\bin\Debug\net6.0\Static.runtimeconfig.json
+D:\auvm\Desktop\C#\Static\bin\Debug\net6.0\Static.dll
+D:\auvm\Desktop\C#\Static\bin\Debug\net6.0\ref\Static.dll
+D:\auvm\Desktop\C#\Static\bin\Debug\net6.0\Static.pdb
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\Static.dll
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\ref\Static.dll
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\Static.pdb
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+D:\auvm\Desktop\C#\Static\obj\Debug\net6.0\Static.csproj.AssemblyReference.cache

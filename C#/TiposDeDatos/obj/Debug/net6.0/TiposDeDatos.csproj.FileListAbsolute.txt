@@ -1,0 +1,15 @@
+D:\auvm\Desktop\C#\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.exe
+D:\auvm\Desktop\C#\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.deps.json
+D:\auvm\Desktop\C#\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.runtimeconfig.json
+D:\auvm\Desktop\C#\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.dll
+D:\auvm\Desktop\C#\TiposDeDatos\bin\Debug\net6.0\ref\TiposDeDatos.dll
+D:\auvm\Desktop\C#\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.pdb
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.csproj.AssemblyReference.cache
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.AssemblyInfo.cs
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.dll
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\ref\TiposDeDatos.dll
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.pdb
+D:\auvm\Desktop\C#\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.genruntimeconfig.cache

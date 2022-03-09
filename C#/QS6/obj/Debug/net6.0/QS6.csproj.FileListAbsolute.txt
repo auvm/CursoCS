@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\QS6\obj\Debug\net6.0\QS6.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\QS6\obj\Debug\net6.0\QS6.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\QS6\obj\Debug\net6.0\QS6.AssemblyInfo.cs
+D:\auvm\Desktop\C#\QS6\obj\Debug\net6.0\QS6.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\QS6\bin\Debug\net6.0\QS6.exe
+D:\auvm\Desktop\C#\QS6\bin\Debug\net6.0\QS6.deps.json
+D:\auvm\Desktop\C#\QS6\bin\Debug\net6.0\QS6.runtimeconfig.json
+D:\auvm\Desktop\C#\QS6\bin\Debug\net6.0\QS6.dll
+D:\auvm\Desktop\C#\QS6\bin\Debug\net6.0\ref\QS6.dll
+D:\auvm\Desktop\C#\QS6\bin\Debug\net6.0\QS6.pdb
+D:\auvm\Desktop\C#\QS6\obj\Debug\net6.0\QS6.dll
+D:\auvm\Desktop\C#\QS6\obj\Debug\net6.0\ref\QS6.dll
+D:\auvm\Desktop\C#\QS6\obj\Debug\net6.0\QS6.pdb
+D:\auvm\Desktop\C#\QS6\obj\Debug\net6.0\QS6.genruntimeconfig.cache

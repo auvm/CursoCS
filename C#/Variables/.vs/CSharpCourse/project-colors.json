@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f300d38f-f8f1-4760-8f9e-ae9cf6eb298b": {
+      "ProjectGuid": "f300d38f-f8f1-4760-8f9e-ae9cf6eb298b",
+      "DisplayName": "Variables",
+      "ColorIndex": 0
+    },
+    "6c3ee379-1411-4d8c-b4b5-e641c9433509": {
+      "ProjectGuid": "6c3ee379-1411-4d8c-b4b5-e641c9433509",
+      "DisplayName": "TiposDeDatos",
+      "ColorIndex": 1
+    },
+    "3ad6fb0f-7063-498d-9efd-62de99e9a6a6": {
+      "ProjectGuid": "3ad6fb0f-7063-498d-9efd-62de99e9a6a6",
+      "DisplayName": "Funciones",
+      "ColorIndex": 2
+    },
+    "2b4ec029-783c-47c5-937b-4e79be13d7f3": {
+      "ProjectGuid": "2b4ec029-783c-47c5-937b-4e79be13d7f3",
+      "DisplayName": "SentenciaIfElseIf",
+      "ColorIndex": 3
+    },
+    "6d203a47-7ae2-435c-b0af-8733bc27f515": {
+      "ProjectGuid": "6d203a47-7ae2-435c-b0af-8733bc27f515",
+      "DisplayName": "SwitchCase",
+      "ColorIndex": 4
+    },
+    "e8778cd6-48cf-489d-80ce-654781912bfa": {
+      "ProjectGuid": "e8778cd6-48cf-489d-80ce-654781912bfa",
+      "DisplayName": "Arreglos",
+      "ColorIndex": 5
+    },
+    "8aa4b564-3d52-48fc-9f12-ddb3b2b6fc9c": {
+      "ProjectGuid": "8aa4b564-3d52-48fc-9f12-ddb3b2b6fc9c",
+      "DisplayName": "While",
+      "ColorIndex": 6
+    },
+    "bd2ec736-2c50-47fb-b89b-03689efcb671": {
+      "ProjectGuid": "bd2ec736-2c50-47fb-b89b-03689efcb671",
+      "DisplayName": "For",
+      "ColorIndex": 7
+    },
+    "6b754dda-4619-4d27-84e9-0816031c8a66": {
+      "ProjectGuid": "6b754dda-4619-4d27-84e9-0816031c8a66",
+      "DisplayName": "Propiedades",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "6958a7c6-9ad4-41fa-8497-768b3335d40e": {
+      "ProjectGuid": "6958a7c6-9ad4-41fa-8497-768b3335d40e",
+      "DisplayName": "Herencia",
+      "ColorIndex": 9
+    },
+    "ffd9dc7d-d0d5-4cb0-8a54-ceb8a58ce1dd": {
+      "ProjectGuid": "ffd9dc7d-d0d5-4cb0-8a54-ceb8a58ce1dd",
+      "DisplayName": "SobreCarga",
+      "ColorIndex": 10
+    },
+    "29a57470-9348-4ad8-a460-c47a4b1cbb44": {
+      "ProjectGuid": "29a57470-9348-4ad8-a460-c47a4b1cbb44",
+      "DisplayName": "SobreEscritura",
+      "ColorIndex": 11
+    },
+    "ffe9706d-0f6c-4d12-bfe6-96547f84482d": {
+      "ProjectGuid": "ffe9706d-0f6c-4d12-bfe6-96547f84482d",
+      "DisplayName": "Static",
+      "ColorIndex": 12
+    },
+    "59b83f75-4119-4c43-a22c-b4df165158d2": {
+      "ProjectGuid": "59b83f75-4119-4c43-a22c-b4df165158d2",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 13
+    },
+    "122aec94-0e83-4adf-acec-a608ffce90f5": {
+      "ProjectGuid": "122aec94-0e83-4adf-acec-a608ffce90f5",
+      "DisplayName": "QS6",
+      "ColorIndex": 14
+    },
+    "cb611e28-e227-41f9-8a0e-3505e406ed2e": {
+      "ProjectGuid": "cb611e28-e227-41f9-8a0e-3505e406ed2e",
+      "DisplayName": "Generic",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

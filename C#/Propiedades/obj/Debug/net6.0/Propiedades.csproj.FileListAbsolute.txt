@@ -1,0 +1,15 @@
+D:\auvm\Desktop\C#\Propiedades\bin\Debug\net6.0\Propiedades.exe
+D:\auvm\Desktop\C#\Propiedades\bin\Debug\net6.0\Propiedades.deps.json
+D:\auvm\Desktop\C#\Propiedades\bin\Debug\net6.0\Propiedades.runtimeconfig.json
+D:\auvm\Desktop\C#\Propiedades\bin\Debug\net6.0\Propiedades.dll
+D:\auvm\Desktop\C#\Propiedades\bin\Debug\net6.0\ref\Propiedades.dll
+D:\auvm\Desktop\C#\Propiedades\bin\Debug\net6.0\Propiedades.pdb
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\Propiedades.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\Propiedades.AssemblyInfo.cs
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\Propiedades.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\Propiedades.dll
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\ref\Propiedades.dll
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\Propiedades.pdb
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\Propiedades.genruntimeconfig.cache
+D:\auvm\Desktop\C#\Propiedades\obj\Debug\net6.0\Propiedades.csproj.AssemblyReference.cache

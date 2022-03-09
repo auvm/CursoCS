@@ -1,0 +1,14 @@
+D:\auvm\Desktop\C#\While\bin\Debug\net6.0\While.exe
+D:\auvm\Desktop\C#\While\bin\Debug\net6.0\While.deps.json
+D:\auvm\Desktop\C#\While\bin\Debug\net6.0\While.runtimeconfig.json
+D:\auvm\Desktop\C#\While\bin\Debug\net6.0\While.dll
+D:\auvm\Desktop\C#\While\bin\Debug\net6.0\ref\While.dll
+D:\auvm\Desktop\C#\While\bin\Debug\net6.0\While.pdb
+D:\auvm\Desktop\C#\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\C#\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+D:\auvm\Desktop\C#\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+D:\auvm\Desktop\C#\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\C#\While\obj\Debug\net6.0\While.dll
+D:\auvm\Desktop\C#\While\obj\Debug\net6.0\ref\While.dll
+D:\auvm\Desktop\C#\While\obj\Debug\net6.0\While.pdb
+D:\auvm\Desktop\C#\While\obj\Debug\net6.0\While.genruntimeconfig.cache

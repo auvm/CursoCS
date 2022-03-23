@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\auvm\\Desktop\\C#\\Generic\\Generic.csproj": {}
+    "D:\\auvm\\Desktop\\cSharpCourse\\C#\\Generic\\Generic.csproj": {}
   },
   "projects": {
-    "D:\\auvm\\Desktop\\C#\\Generic\\Generic.csproj": {
+    "D:\\auvm\\Desktop\\cSharpCourse\\C#\\Generic\\Generic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\auvm\\Desktop\\C#\\Generic\\Generic.csproj",
+        "projectUniqueName": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\Generic\\Generic.csproj",
         "projectName": "Generic",
-        "projectPath": "D:\\auvm\\Desktop\\C#\\Generic\\Generic.csproj",
+        "projectPath": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\Generic\\Generic.csproj",
         "packagesPath": "C:\\Users\\avm23\\.nuget\\packages\\",
-        "outputPath": "D:\\auvm\\Desktop\\C#\\Generic\\obj\\",
+        "outputPath": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\Generic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avm23\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

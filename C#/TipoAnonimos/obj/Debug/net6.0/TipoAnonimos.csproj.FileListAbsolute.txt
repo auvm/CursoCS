@@ -1,0 +1,14 @@
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\bin\Debug\net6.0\TipoAnonimos.exe
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\bin\Debug\net6.0\TipoAnonimos.deps.json
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\bin\Debug\net6.0\TipoAnonimos.runtimeconfig.json
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\bin\Debug\net6.0\TipoAnonimos.dll
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\bin\Debug\net6.0\ref\TipoAnonimos.dll
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\bin\Debug\net6.0\TipoAnonimos.pdb
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\obj\Debug\net6.0\TipoAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\obj\Debug\net6.0\TipoAnonimos.AssemblyInfoInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\obj\Debug\net6.0\TipoAnonimos.AssemblyInfo.cs
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\obj\Debug\net6.0\TipoAnonimos.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\obj\Debug\net6.0\TipoAnonimos.dll
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\obj\Debug\net6.0\ref\TipoAnonimos.dll
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\obj\Debug\net6.0\TipoAnonimos.pdb
+D:\auvm\Desktop\cSharpCourse\C#\TipoAnonimos\obj\Debug\net6.0\TipoAnonimos.genruntimeconfig.cache

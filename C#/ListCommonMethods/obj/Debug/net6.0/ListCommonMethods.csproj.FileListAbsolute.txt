@@ -1,0 +1,14 @@
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.exe
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.deps.json
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.runtimeconfig.json
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.dll
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\bin\Debug\net6.0\ref\ListCommonMethods.dll
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.pdb
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.AssemblyInfoInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.AssemblyInfo.cs
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.dll
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\obj\Debug\net6.0\ref\ListCommonMethods.dll
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.pdb
+D:\auvm\Desktop\cSharpCourse\C#\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\auvm\Desktop\cSharpCourse\C#\Json\bin\Debug\net6.0\Json.exe
+D:\auvm\Desktop\cSharpCourse\C#\Json\bin\Debug\net6.0\Json.deps.json
+D:\auvm\Desktop\cSharpCourse\C#\Json\bin\Debug\net6.0\Json.runtimeconfig.json
+D:\auvm\Desktop\cSharpCourse\C#\Json\bin\Debug\net6.0\Json.dll
+D:\auvm\Desktop\cSharpCourse\C#\Json\bin\Debug\net6.0\ref\Json.dll
+D:\auvm\Desktop\cSharpCourse\C#\Json\bin\Debug\net6.0\Json.pdb
+D:\auvm\Desktop\cSharpCourse\C#\Json\obj\Debug\net6.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\cSharpCourse\C#\Json\obj\Debug\net6.0\Json.AssemblyInfoInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\Json\obj\Debug\net6.0\Json.AssemblyInfo.cs
+D:\auvm\Desktop\cSharpCourse\C#\Json\obj\Debug\net6.0\Json.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\Json\obj\Debug\net6.0\Json.dll
+D:\auvm\Desktop\cSharpCourse\C#\Json\obj\Debug\net6.0\ref\Json.dll
+D:\auvm\Desktop\cSharpCourse\C#\Json\obj\Debug\net6.0\Json.pdb
+D:\auvm\Desktop\cSharpCourse\C#\Json\obj\Debug\net6.0\Json.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\auvm\\Desktop\\C#\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "D:\\auvm\\Desktop\\C#\\Interfaces\\Interfaces.csproj",
+      "projectPath": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\avm23\\.nuget\\packages\\",
-      "outputPath": "D:\\auvm\\Desktop\\C#\\Interfaces\\obj\\",
+      "outputPath": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\avm23\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,14 @@
+D:\auvm\Desktop\cSharpCourse\C#\Listas\bin\Debug\net6.0\Listas.exe
+D:\auvm\Desktop\cSharpCourse\C#\Listas\bin\Debug\net6.0\Listas.deps.json
+D:\auvm\Desktop\cSharpCourse\C#\Listas\bin\Debug\net6.0\Listas.runtimeconfig.json
+D:\auvm\Desktop\cSharpCourse\C#\Listas\bin\Debug\net6.0\Listas.dll
+D:\auvm\Desktop\cSharpCourse\C#\Listas\bin\Debug\net6.0\ref\Listas.dll
+D:\auvm\Desktop\cSharpCourse\C#\Listas\bin\Debug\net6.0\Listas.pdb
+D:\auvm\Desktop\cSharpCourse\C#\Listas\obj\Debug\net6.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\cSharpCourse\C#\Listas\obj\Debug\net6.0\Listas.AssemblyInfoInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\Listas\obj\Debug\net6.0\Listas.AssemblyInfo.cs
+D:\auvm\Desktop\cSharpCourse\C#\Listas\obj\Debug\net6.0\Listas.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\Listas\obj\Debug\net6.0\Listas.dll
+D:\auvm\Desktop\cSharpCourse\C#\Listas\obj\Debug\net6.0\ref\Listas.dll
+D:\auvm\Desktop\cSharpCourse\C#\Listas\obj\Debug\net6.0\Listas.pdb
+D:\auvm\Desktop\cSharpCourse\C#\Listas\obj\Debug\net6.0\Listas.genruntimeconfig.cache

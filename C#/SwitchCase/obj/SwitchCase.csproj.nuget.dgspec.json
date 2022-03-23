@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\auvm\\Desktop\\C#\\SwitchCase\\SwitchCase.csproj": {}
+    "D:\\auvm\\Desktop\\cSharpCourse\\C#\\SwitchCase\\SwitchCase.csproj": {}
   },
   "projects": {
-    "D:\\auvm\\Desktop\\C#\\SwitchCase\\SwitchCase.csproj": {
+    "D:\\auvm\\Desktop\\cSharpCourse\\C#\\SwitchCase\\SwitchCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\auvm\\Desktop\\C#\\SwitchCase\\SwitchCase.csproj",
+        "projectUniqueName": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\SwitchCase\\SwitchCase.csproj",
         "projectName": "SwitchCase",
-        "projectPath": "D:\\auvm\\Desktop\\C#\\SwitchCase\\SwitchCase.csproj",
+        "projectPath": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\SwitchCase\\SwitchCase.csproj",
         "packagesPath": "C:\\Users\\avm23\\.nuget\\packages\\",
-        "outputPath": "D:\\auvm\\Desktop\\C#\\SwitchCase\\obj\\",
+        "outputPath": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\SwitchCase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avm23\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

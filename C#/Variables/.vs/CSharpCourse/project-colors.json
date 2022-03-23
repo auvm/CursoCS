@@ -85,7 +85,37 @@
       "ProjectGuid": "cb611e28-e227-41f9-8a0e-3505e406ed2e",
       "DisplayName": "Generic",
       "ColorIndex": 15
+    },
+    "fa7bdde0-da96-405f-a224-2d54e806a8dd": {
+      "ProjectGuid": "fa7bdde0-da96-405f-a224-2d54e806a8dd",
+      "DisplayName": "Json",
+      "ColorIndex": 0
+    },
+    "04741ca3-762f-4a66-a0be-053797b48bb7": {
+      "ProjectGuid": "04741ca3-762f-4a66-a0be-053797b48bb7",
+      "DisplayName": "Listas",
+      "ColorIndex": 1
+    },
+    "fc247673-d214-48a7-bcdb-4e20db6fe298": {
+      "ProjectGuid": "fc247673-d214-48a7-bcdb-4e20db6fe298",
+      "DisplayName": "ForEach",
+      "ColorIndex": 2
+    },
+    "09939401-eae7-4a83-a943-2053ad47c7ec": {
+      "ProjectGuid": "09939401-eae7-4a83-a943-2053ad47c7ec",
+      "DisplayName": "ListCommonMethods",
+      "ColorIndex": 3
+    },
+    "b027e5d2-e8a8-4f9b-ada8-c2f92fd51321": {
+      "ProjectGuid": "b027e5d2-e8a8-4f9b-ada8-c2f92fd51321",
+      "DisplayName": "TipoAnonimos",
+      "ColorIndex": 4
+    },
+    "a91389ce-dfbe-490f-80d5-8005e692812d": {
+      "ProjectGuid": "a91389ce-dfbe-490f-80d5-8005e692812d",
+      "DisplayName": "Tuplas",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 6
 }

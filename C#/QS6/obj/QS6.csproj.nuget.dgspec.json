@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\auvm\\Desktop\\C#\\QS6\\QS6.csproj": {}
+    "D:\\auvm\\Desktop\\cSharpCourse\\C#\\QS6\\QS6.csproj": {}
   },
   "projects": {
-    "D:\\auvm\\Desktop\\C#\\QS6\\QS6.csproj": {
+    "D:\\auvm\\Desktop\\cSharpCourse\\C#\\QS6\\QS6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\auvm\\Desktop\\C#\\QS6\\QS6.csproj",
+        "projectUniqueName": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\QS6\\QS6.csproj",
         "projectName": "QS6",
-        "projectPath": "D:\\auvm\\Desktop\\C#\\QS6\\QS6.csproj",
+        "projectPath": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\QS6\\QS6.csproj",
         "packagesPath": "C:\\Users\\avm23\\.nuget\\packages\\",
-        "outputPath": "D:\\auvm\\Desktop\\C#\\QS6\\obj\\",
+        "outputPath": "D:\\auvm\\Desktop\\cSharpCourse\\C#\\QS6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avm23\\AppData\\Roaming\\NuGet\\NuGet.Config",

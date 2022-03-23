@@ -1,0 +1,15 @@
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\bin\Debug\net6.0\ForEach.exe
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\bin\Debug\net6.0\ForEach.deps.json
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\bin\Debug\net6.0\ForEach.dll
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\bin\Debug\net6.0\ref\ForEach.dll
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\bin\Debug\net6.0\ForEach.pdb
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ForEach.dll
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ref\ForEach.dll
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ForEach.pdb
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+D:\auvm\Desktop\cSharpCourse\C#\ForEach\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache

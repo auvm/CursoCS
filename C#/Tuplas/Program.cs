@@ -34,7 +34,7 @@ foreach (var item in people)
 }
 
 
-
+//Gracias a las tupla puedo regresar varios valores envueltos en la tupla
 //puedo hacer que un método regrese más de un valor utilizando tuplas
 (float lat, float lng, string name) getLocationCDMX()
 {
@@ -46,13 +46,14 @@ foreach (var item in people)
 }
 
 
-//ahora, invoco para ejemplificar el retorno de varios valores
-
+//ahora, invoco para obtener el retorno de los valores de la tupla
 var cityInfo = getLocationCDMX();
 Console.WriteLine($"Coordenadas: {cityInfo}");
 
 
 //también podemos obviar valores si solo nos importa uno en particular
+//almacenar en una vairable solo un determinado valor o no todos los valores
+//retornado, con el guión bajo se ignoras los valores no deseados
 var (_, lng, _) = getLocationCDMX();
 //utilizas guión bajo para ignorar los valores retornados
 //que no importan

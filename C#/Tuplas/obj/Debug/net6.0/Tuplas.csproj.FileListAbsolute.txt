@@ -2,7 +2,6 @@ D:\auvm\Desktop\cSharpCourse\C#\Tuplas\bin\Debug\net6.0\Tuplas.exe
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\bin\Debug\net6.0\Tuplas.deps.json
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\bin\Debug\net6.0\Tuplas.runtimeconfig.json
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\bin\Debug\net6.0\Tuplas.dll
-D:\auvm\Desktop\cSharpCourse\C#\Tuplas\bin\Debug\net6.0\ref\Tuplas.dll
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\bin\Debug\net6.0\Tuplas.pdb
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\obj\Debug\net6.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfoInputs.cache
@@ -12,3 +11,5 @@ D:\auvm\Desktop\cSharpCourse\C#\Tuplas\obj\Debug\net6.0\Tuplas.dll
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\obj\Debug\net6.0\ref\Tuplas.dll
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\obj\Debug\net6.0\Tuplas.pdb
 D:\auvm\Desktop\cSharpCourse\C#\Tuplas\obj\Debug\net6.0\Tuplas.genruntimeconfig.cache
+D:\auvm\Desktop\cSharpCourse\C#\Tuplas\obj\Debug\net6.0\Tuplas.csproj.AssemblyReference.cache
+D:\auvm\Desktop\cSharpCourse\C#\Tuplas\obj\Debug\net6.0\refint\Tuplas.dll

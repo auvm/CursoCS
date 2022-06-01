@@ -1,0 +1,15 @@
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\bin\Debug\net6.0\ExcepcionerPersonalizadas.exe
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\bin\Debug\net6.0\ExcepcionerPersonalizadas.deps.json
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\bin\Debug\net6.0\ExcepcionerPersonalizadas.runtimeconfig.json
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\bin\Debug\net6.0\ExcepcionerPersonalizadas.dll
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\bin\Debug\net6.0\ExcepcionerPersonalizadas.pdb
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ExcepcionerPersonalizadas.csproj.AssemblyReference.cache
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ExcepcionerPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ExcepcionerPersonalizadas.AssemblyInfoInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ExcepcionerPersonalizadas.AssemblyInfo.cs
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ExcepcionerPersonalizadas.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ExcepcionerPersonalizadas.dll
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\refint\ExcepcionerPersonalizadas.dll
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ExcepcionerPersonalizadas.pdb
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ExcepcionerPersonalizadas.genruntimeconfig.cache
+D:\auvm\Desktop\cSharpCourse\C#\ExcepcionerPersonalizadas\obj\Debug\net6.0\ref\ExcepcionerPersonalizadas.dll

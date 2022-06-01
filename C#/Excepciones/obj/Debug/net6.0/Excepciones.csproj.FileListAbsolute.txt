@@ -1,0 +1,15 @@
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\bin\Debug\net6.0\Excepciones.exe
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\bin\Debug\net6.0\Excepciones.deps.json
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\bin\Debug\net6.0\Excepciones.runtimeconfig.json
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\bin\Debug\net6.0\Excepciones.dll
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\bin\Debug\net6.0\Excepciones.pdb
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\Excepciones.csproj.AssemblyReference.cache
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfoInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfo.cs
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\Excepciones.dll
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\refint\Excepciones.dll
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\Excepciones.pdb
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\Excepciones.genruntimeconfig.cache
+D:\auvm\Desktop\cSharpCourse\C#\Excepciones\obj\Debug\net6.0\ref\Excepciones.dll
